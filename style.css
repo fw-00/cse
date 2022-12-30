@@ -1,22 +1,22 @@
 body {
-  background: grey;
+   background-color: coral;
 }
 
 p {
-  color: rebeccapurple;
+  color:teal;
+  font-size: 18px;
+  text-shadow: -1px 1px black;
 }
 
 h1 {
     color: purple;
-    font-size: 50px;
+    font-size: 70px;
+    font-family: fantasy;
+    text-shadow: 5px 5px black;
 }
 
-h3 {
-    color: orange;
-    font-size: 16px;
+h2 {
+    color: black;
+    font-size: 30px;
 }
 
-p {
-    color: teal;
-    font-size: 6px;
-}
